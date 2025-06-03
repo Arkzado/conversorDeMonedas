@@ -4,17 +4,17 @@ Este proyecto es una aplicación de consola escrita en Java que permite converti
 
 ## 📸 Capturas de pantalla
 
+More actions
 ### Menú principal  
-(https://github.com/user-attachments/assets/56b72d81-8b39-44c0-af4b-73cabd0f4f2a)
+[image](https://github.com/user-attachments/assets/56b72d81-8b39-44c0-af4b-73cabd0f4f2a)
 
 
 ### Ejemplo de conversión (USD a COP)  
-(https://github.com/user-attachments/assets/ea13586c-2afa-409f-b520-202e3f708a3b)
+[image](https://github.com/user-attachments/assets/ea13586c-2afa-409f-b520-202e3f708a3b)
 
 
 ### Opción de salir  
-(https://github.com/user-attachments/assets/af447c2b-dd19-43e2-999d-5a8920cf9883)
-
+[image](https://github.com/user-attachments/assets/af447c2b-dd19-43e2-999d-5a8920cf9883)
 
 ## ⚙️ Funcionalidades
 
